@@ -1,6 +1,6 @@
 # P300-analysis
 Adding projects using MNE to analyse P300 data
-# Auditory oddball P300 (work in progress) P300analysis.ipynb
+# **TASK 1** Auditory oddball P300 (work in progress) P300analysis.ipynb
 
 **Status: Work in Progress. Preprocessing and a data-quality audit are done; the P300 analysis is not.** I am using this repo to document what I have learned so far.
 
@@ -31,10 +31,8 @@ Averaging into ERPs, the rare-vs-frequent comparison, statistics and figures. I 
 ## Limitations
 Small sample; no ICA for eye or muscle artefacts; average reference rather than mastoids; exclusion rules still being finalised.
 
-## Acknowledgements
-Data: Delorme, A. (2020), OpenNeuro ds003061. Built with MNE-Python. Code was developed step by step with AI tutoring (Claude); I am still learning each step.
 
-P300 Auditory Oddball EEG Analysis for **P300(2)** 
+**TASK 2** P300 Auditory Oddball EEG Analysis for **P300(2)** p300(2).ipynb
 
 A beginner project for learning EEG analysis with Python and MNE. The notebook explores EEG recorded during an auditory oddball task.
 
