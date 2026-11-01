@@ -1,6 +1,6 @@
 # P300-analysis
 Adding projects using MNE to analyse P300 data
-# Auditory oddball P300 (work in progress)
+# Auditory oddball P300 (work in progress) P300analysis.ipynb
 
 **Status: Work in Progress. Preprocessing and a data-quality audit are done; the P300 analysis is not.** I am using this repo to document what I have learned so far.
 
