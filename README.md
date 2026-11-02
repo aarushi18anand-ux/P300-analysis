@@ -32,17 +32,17 @@ Averaging into ERPs, the rare-vs-frequent comparison, statistics and figures. I 
 Small sample; no ICA for eye or muscle artefacts; average reference rather than mastoids; exclusion rules still being finalised.
 
 
-**TASK 2** P300 Auditory Oddball EEG Analysis for **P300(2)** p300(2).ipynb
+## **TASK 2** P300 Auditory Oddball EEG Analysis for **P300(2)** p300(2).ipynb
 
 A beginner project for learning EEG analysis with Python and MNE. The notebook explores EEG recorded during an auditory oddball task.
 
-Project question
+# Project question
 
 How does the EEG response to a rare oddball sound differ from the response to a frequent standard sound?
 
 The project looks for a possible P300 response. The current analysis is exploratory; it does not yet establish a group-level result.
 
-Dataset
+# Dataset
 
 This project uses OpenNeuro dataset ds003061, “EEG data from an auditory oddball task.”
 
@@ -84,6 +84,6 @@ Extend the analysis from one run to all participants and runs.
 
 Compare the group response across scalp sensors.
 
-Citation
+## Citation
 
 Delorme, A. (2022). EEG data from an auditory oddball task [Dataset]. OpenNeuro, ds003061. https://doi.org/10.18112/openneuro.ds003061.v1.1.2
